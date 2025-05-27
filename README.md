@@ -28,7 +28,7 @@ The purpose of this HTML project is to learn and better understand HTML by creat
    ```
 2. Navigate into the project directory:
    ```bash
-   cd Video-Complilation-Page
+   cd Video-Compilation-Page
    ```
 
 ## Webpage Screenshots
