@@ -39,7 +39,7 @@ The purpose of this HTML project is to learn and better understand HTML by creat
 
 ## GitHub Deployment Location (HTTPS)
 
-
+https://kanfachan.github.io/Video-Compilation-Page/
 
 ## GitHub Repository Location (HTTPS)
 
