@@ -58,7 +58,7 @@ https://github.com/Kanfachan/Video-Compilation-Page/
 
 * CSS Tutorial For Beginners: CSS Crash Course
 
-  https://www.youtube.com/watch?v=c26O1N3x6ug
+  https://www.youtube.com/watch?v=PkZNo7MFNFg
 
 
 * JavaScript Tutorial Full Course - Beginner to Pro
