@@ -61,7 +61,7 @@ https://github.com/Kanfachan/Video-Compilation-Page/
   https://www.youtube.com/watch?v=PkZNo7MFNFg
 
 
-* JavaScript Tutorial Full Course - Beginner to Pro
+* Learn JavaScript - Full Course for Beginners
 
   https://www.youtube.com/watch?v=EerdGm-ehJQ
 
